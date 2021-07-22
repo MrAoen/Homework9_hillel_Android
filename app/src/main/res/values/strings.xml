@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyLogin_Homework9_Android</string>
+    <string name="password_hint_login">Password (min 6 characters)</string>
+    <string name="name_hint_login">Enter you name</string>
+</resources>
